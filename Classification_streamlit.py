@@ -14,6 +14,7 @@ model.fit(X, y)
 
 # Streamlit app interface
 st.title('Iris Species Prediction')
+st.title('happy')
 
 # User inputs for features
 def user_input_features():
